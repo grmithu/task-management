@@ -33,7 +33,7 @@ Please follow the below instructions to run this branch in your machine:
 
 2. Clone this repository -
    ```sh
-   git clone https://github.com/Learn-with-Sumit/rnext.git
+   git clone https://github.com/grmithu/task-management.git
    ```
 3. Just run this command to install node dependencies
    ```sh
